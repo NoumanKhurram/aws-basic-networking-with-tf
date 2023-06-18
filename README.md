@@ -1,2 +1,2 @@
 # aws-basic-networking-with-tf
-AWS basic networking using IAC (Terraform)
+Deploy/exposes a EC2 instance using basic AWS networking (VPC, Subnet, Route Tabel, Security groups, Internet Gateway) using IAC (Terraform). 
